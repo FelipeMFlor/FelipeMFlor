@@ -18,6 +18,7 @@
 ## 🚀 Tecnologias & Skills
 
 ### 🖥️ Linguagens
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -33,15 +34,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-## 📌 Projetos em destaque
-- 🔹 **Sistema Médico / Gestão de Pacientes**
-- 🔹 **Soluções Web sob medida (PHP + MySQL)**
-- 🔹 **Projetos com Docker e integração SQL Server**
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
@@ -50,5 +42,5 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *em breve*
-- 📧 Email: *em breve*
+- 💼 LinkedIn: https://www.linkedin.com/in/felipe-flôr-a5b338267/
+- 📧 Email: fm6848445@gmail.com
