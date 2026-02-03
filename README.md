@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Flôr!
 
-<!--
-**FelipeMFlor/FelipeMFlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em soluções sob medida  
+🚀 Apaixonado por tecnologia, automação e projetos bem estruturados  
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎓 Estudante de tecnologia
+- 🧩 Experiência com desenvolvimento web e sistemas personalizados
+- 🛠️ Sempre buscando boas práticas, código limpo e escalável
+- 📈 Interesse em arquitetura, performance e versionamento profissional
+
+---
+
+## 🚀 Tecnologias & Skills
+
+### 🖥️ Linguagens
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+- 🔹 **Sistema Médico / Gestão de Pacientes**
+- 🔹 **Soluções Web sob medida (PHP + MySQL)**
+- 🔹 **Projetos com Docker e integração SQL Server**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: *em breve*
+- 📧 Email: *em breve*
