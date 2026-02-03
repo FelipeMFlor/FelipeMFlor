@@ -35,7 +35,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipemflor&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeMFlor&show_icons=true&theme=tokyonight)
 
 
 
