@@ -36,7 +36,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMFlor&show_icons=true&theme=tokyonight)
 
 ---
 
