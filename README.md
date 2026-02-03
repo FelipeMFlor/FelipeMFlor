@@ -35,9 +35,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeMFlor&show_icons=true&theme=tokyonight)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMFlor&layout=compact&theme=tokyonight)
 
 
 ---
