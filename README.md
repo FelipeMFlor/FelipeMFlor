@@ -34,11 +34,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeMFlor&layout=compact)
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/felipe-flôr-a5b338267/
